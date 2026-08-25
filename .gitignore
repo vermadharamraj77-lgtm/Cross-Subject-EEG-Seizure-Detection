@@ -1,0 +1,21 @@
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# EEG data
+*.edf
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.keras
+*.pth
+*.pt
